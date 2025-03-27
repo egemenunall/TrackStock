@@ -25,7 +25,7 @@ TrackStock is a comprehensive inventory and stock management application designe
 
 ### 🛠️ Technologies Used
 
-- **Frontend**: React.js, Tailwind CSS, Vite
+- **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (implied from the project structure)
 
@@ -66,9 +66,7 @@ MONGODB_URI=mongodb://localhost:27017/trackstock
 JWT_SECRET=your_jwt_secret
 ```
 
-### 👥 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
@@ -86,7 +84,7 @@ TrackStock, küçük ve orta ölçekli işletmeler için tasarlanmış kapsamlı
 
 ### 🛠️ Kullanılan Teknolojiler
 
-- **Frontend**: React.js, Tailwind CSS, Vite
+- **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Veritabanı**: MongoDB (proje yapısından anlaşıldığı üzere)
 
@@ -127,12 +125,9 @@ MONGODB_URI=mongodb://localhost:27017/trackstock
 JWT_SECRET=your_jwt_secret
 ```
 
-### 👥 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen bir Pull Request göndermekten çekinmeyin.
 
 ---
 
 <p align="center">
-  © 2023 TrackStock. Tüm hakları saklıdır. / All rights reserved.
+  © 2025 TrackStock. Tüm hakları saklıdır. / All rights reserved.
 </p>
